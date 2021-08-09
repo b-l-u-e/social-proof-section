@@ -80,7 +80,7 @@ body {
 .card-rating {
   background-color: var(--light-grayish-magenta, #f7f2f7);
   padding: 1rem;
-  width: 100%;
+  width: 92%;
   max-width: 400px;
   position: relative;
   border-radius: 0.2rem;
