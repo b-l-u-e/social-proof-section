@@ -30,7 +30,7 @@ Users will be able to:
   ![](./desktop-view-solution.png)
 
 ### Links
-- Live Site URL: [social-proof-section]()
+- Live Site URL: [social-proof-section](https://social-proof-section-weld.vercel.app/)
 
 ## my-process
 
